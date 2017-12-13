@@ -1,5 +1,7 @@
 # ServerSort
 
+![Example](https://this.is-a-professional-domain.com/06eb6f.gif)
+
 ## Requirements
 - Ruby 2.2+ 
 - bundler (`gem install bundler`)

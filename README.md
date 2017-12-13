@@ -1,7 +1,7 @@
 # ServerSort
 
 ## Requirements
-- Ruby 2.2+ (Due to a bug in the Ruby interpreter, this bot won't work correctly with lower versions.)
+- Ruby 2.2+ 
 - bundler (`gem install bundler`)
 
 ## Install

@@ -2,12 +2,6 @@ require 'discordrb'
 require 'open-uri'
 require 'yaml'
 
-begin
-  (raise Discordrb::Errors::NoPermission)
-rescue
-  nil
-end
-
 @store = {}
 
 @config = YAML.load_file('config.yml')

@@ -1,0 +1,4 @@
+token: mfa.xxxxx
+
+# :bot or :user
+type: :user

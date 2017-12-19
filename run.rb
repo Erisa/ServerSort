@@ -43,7 +43,7 @@ bot.servers.each do |_num, server|
     @store[server.id] = count
     puts "  Found: #{count} messages."
   rescue
-    puts 'Error occured. Ignoring server (Counting as 0)'
+    puts '  Error occured. Ignoring server (Counting as 0)'
     @store[server.id] = 0
   end
 end

@@ -7,7 +7,7 @@
 - bundler (`gem install bundler`)
 
 ## Install
-1. Clone the repo: `git clone https://github.com/Seriell/ServerSort.git`
+1. Clone the repo: `git clone https://owo.codes/Seriel/ServerSort.git`
 2. cd into the repo: `cd ServerSort`
 3. Copy `config.example.yml` to `config.yml` and add your user token.
 4. Install bundler if you haven't already: `gem install bundler`
@@ -19,7 +19,7 @@
 2. Update the bundle: `bundle update`
 3. Run the bot: `bundle exec ruby run.rb`
 
-Please report any issues to `@Seriel#3760` | `<@228574821590499329>` on Discord, or open an Issue on Github! <br />
+Please report any issues to `@Seriel#3760` | `<@228574821590499329>` on Discord, or open an [Issue](https://owo.codes/-/ide/project/Seriel/ServerSort)! <br />
 You can also join our server for support! https://discord.gg/kZ9dHxJ <br />
 
 Enjoy~
@@ -27,6 +27,6 @@ Enjoy~
 
 # Credits
 
-Kudos to the following users for helping me ([Seriel](https://github.com/Seriell)) out:
+Kudos to the following users for helping me ([Seriel](https://owo.codes/Seriel)) out:
 
 - [meew0](https://github.com/meew0/) for [Discordrb](https://github.com/meew0/discordrb)
